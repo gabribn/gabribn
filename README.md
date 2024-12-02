@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabribn&theme=default" alt="Mapa de commits" />
-</div>
+
 
 ###
 
