@@ -2,7 +2,9 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabribn&theme=react-dark&hide_border=true" alt="Gráfico de Contribuições">
+</div>
 
 ###
 
@@ -68,8 +70,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://br.pinterest.com/pin/17170042314436624/"  />
-</div>
+
 
 ###
