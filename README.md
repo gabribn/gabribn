@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabribn&theme=react-dark&hide_border=true" alt="Gráfico de Contribuições">
-</div>
+<p align="left">Me chamo Gabriel, sou um desenvolvedor apaixonado por tecnologia. Atuo como desenvolvedor full-stack, sempre buscando aprender e aplicar soluções inovadoras para desafios técnicos. Tenho interesse em explorar novas ferramentas e linguagens para me manter atualizado no universo da tecnologia.</p>
 
 ###
 
-<p align="left">Me chamo Gabriel, sou um desenvolvedor apaixonado por tecnologia. Atuo como desenvolvedor full-stack, sempre buscando aprender e aplicar soluções inovadoras para desafios técnicos. Tenho interesse em explorar novas ferramentas e linguagens para me manter atualizado no universo da tecnologia.</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabribn&theme=react-dark&hide_border=true" alt="Gráfico de Contribuições">
+</div>
 
 ###
 
