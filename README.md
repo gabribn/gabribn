@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabribn/gabribn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gabribn/gabribn/snake.svg" alt="Snake animation" />
 
 ###
 
