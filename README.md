@@ -6,9 +6,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabribn&theme=react-dark&hide_border=true" alt="Gráfico de Contribuições">
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabribn/gabribn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabribn/gabribn/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabribn/gabribn/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
@@ -24,7 +26,13 @@
 
 ###
 
-<p align="left">webService E-Commerce.<br>API-Restful.<br>Jogo de Xadrez.</p>
+<p align="left">
+  <a href="https://github.com/gabribn/webService-springboot3-jpa">webService E-Commerce. </a>
+  <br>
+  <a href="https://github.com/gabribn/API-Restful">API-Restful.</a>
+  <br>
+  <a href="https://github.com/gabribn/JAVA-chess-system"> Jogo de Xadrez.</a>
+</p>
 
 ###
 
